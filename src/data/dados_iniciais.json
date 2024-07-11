@@ -1,0 +1,96 @@
+{
+    "categorias": [
+      {
+        "titulo": "Desenhos da Ana",
+        "cor": "#a26ef7",
+        "videos": [
+          {
+            "titulo": "We Bare Bears",
+            "url": "https://www.youtube.com/watch?v=EeB6ozkXJJA"
+          },
+          {
+            "titulo": "The Hollow",
+            "url": "https://www.youtube.com/watch?v=XLA_uqAfbew"
+          },
+          {
+            "titulo": "Over The Garden Wall",
+            "url": "https://www.youtube.com/watch?v=36mAsVSH_-s"
+          },
+          {
+            "titulo": "Gravity Falls",
+            "url": "https://www.youtube.com/watch?v=yfUDIPUETUg"
+          }       
+        ]
+      },
+      {
+        "titulo": "Séries da Ana",
+        "cor": "#a26ef7",
+        "videos": [
+          {
+            "titulo": "Prison Break",
+            "url": "https://www.youtube.com/watch?v=der8A7Z9u7c"
+          },
+          {
+            "titulo": "Mind Field",
+            "url": "https://www.youtube.com/watch?v=GAPqEAWW9lc"
+          },
+          {
+            "titulo": "Think Like a Coder",
+            "url": "https://www.youtube.com/watch?v=qhAAmyGnA-M"
+          },
+          {
+            "titulo": "BrainChild",
+            "url": "https://www.youtube.com/watch?v=U2WK7PjeVYs"
+          }       
+        ]
+      },
+      {
+        "titulo": "Watch later da Ana",
+        "cor": "#a26ef7",
+        "videos": [
+          {
+            "titulo": "Scikit-Learn Course - Machine Learning in Python Tutorial",
+            "url": "https://youtu.be/pqNCD_5r0IU"
+          },
+          {
+            "titulo": "Live Coding Project: Create a Markdown Previewer using Vue.js - with Gwen Faraday",
+            "url": "https://youtu.be/i3_I6asZSkY"
+          },
+          {
+            "titulo": "Learn Flask for Python - Full Tutorial",
+            "url": "https://youtu.be/Z1RJmh_OqeA"
+          },
+          {
+            "titulo": "Learn Node.js - Full Tutorial for Beginners",
+            "url": "https://youtu.be/RLtyhwFtXQA"
+          }       
+        ]
+      },
+      {
+        "titulo": "Músicas da Ana",
+        "cor": "#a26ef7",
+        "videos": [
+          {
+            "titulo": "Take On Me | a-Ha",
+            "url": "https://www.youtube.com/watch?v=irljBY9J5ig&list=PLEi1fy339GWfFNPVHwzEYKAsx1mBfDfQ-&index=5&t=0s"
+          },
+          {
+            "titulo": "Never Gonna Give You Up | Rick Astley",
+            "url": "https://www.youtube.com/watch?v=6_b7RDuLwcI&list=PLEi1fy339GWfFNPVHwzEYKAsx1mBfDfQ-&index=8&t=0s"
+          },
+          {
+            "titulo": "Intentions | Justin Bieber",
+            "url": "https://www.youtube.com/watch?v=3AyMjyHu1bA&list=PLEi1fy339GWfFNPVHwzEYKAsx1mBfDfQ-&index=10&t=0s"
+          },
+          {
+            "titulo": "You Are | Lionel Richie",
+            "url": "https://www.youtube.com/watch?v=DXMDWfLclNY&list=PLEi1fy339GWfFNPVHwzEYKAsx1mBfDfQ-&index=22&t=0s"
+          },
+          {
+            "titulo": "Careless Whisper | Lionel Richie",
+            "url": "https://www.youtube.com/watch?v=izGwDsrQ1eQ&list=PLEi1fy339GWfFNPVHwzEYKAsx1mBfDfQ-&index=24&t=0s"
+          }       
+        ]
+      }
+    ]
+  }
